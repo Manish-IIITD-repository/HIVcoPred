@@ -12,6 +12,7 @@ Kumar, R., & Raghava, G. P. S. (2013).
 **Hybrid Approach for Predicting Coreceptor Used by HIV-1 from Its V3 Loop Amino Acid Sequence.**
 *PLoS ONE*, 8(4), e61437.
 [https://doi.org/10.1371/journal.pone.0061437](https://doi.org/10.1371/journal.pone.0061437)
+https://doi.org/10.5281/zenodo.20083308
 
 ---
 
